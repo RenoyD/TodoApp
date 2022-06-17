@@ -1,0 +1,34 @@
+{
+  "json-todo": [
+    {
+      "sno": 2,
+      "title": "Drink water",
+      "description": "Never forget to keep yourself hydrated",
+      "id": 3
+    },
+    {
+      "sno": 3,
+      "title": "Brush your teeth",
+      "description": "Always brush your teeth twice a day",
+      "id": 4
+    },
+    {
+      "sno": 8,
+      "title": "Purchase rain boots",
+      "description": "It is a rainy day",
+      "id": 9
+    },
+    {
+      "sno": 10,
+      "title": "This is my new todo",
+      "description": "This is my description of my new todo",
+      "id": 11
+    },
+    {
+      "sno": 11,
+      "title": "Learn spring-Boot",
+      "description": "It is very important that you learn spring boot as soon as you can!",
+      "id": 12
+    }
+  ]
+}
